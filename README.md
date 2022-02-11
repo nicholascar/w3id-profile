@@ -8,7 +8,7 @@ A list of fundamental profiles, that is profiles that are commonly seen/needed a
 
 * **Creator**
   * Nicholas J. Car
-* Publisher**
+* **Publisher**
   * SURROUND Australia Pty Ltd
 * **Created**
   * 2012-08-15
