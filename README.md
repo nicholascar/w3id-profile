@@ -19,10 +19,12 @@ A list of fundamental profiles, that is profiles that are commonly seen/needed a
 
 ## Members
 
+All these members are profiles.
+
 **Registered Item** | **IRI** | **Status**
 --- | --- | ---
-Concise Bounded Description Profile | https://w3id.org/profile/cbd | [experimental](https://linked.data.gov.au/def/reg-statuses/experimental)
-Container Annotations Profile | https://w3id.org/profile/contanno | [stable](https://linked.data.gov.au/def/reg-statuses/stable)
-Vocabulary Publications | https://w3id.org/profile/cbd | [experimental](https://linked.data.gov.au/def/reg-statuses/experimental)
-OGC Linked Data API Profile | https://w3id.org/profile/ogcldapi | [stable](https://linked.data.gov.au/def/reg-statuses/stable)
-Vocabulary Publications Profile | https://w3id.org/profile/vocpub | [stable](https://linked.data.gov.au/def/reg-statuses/stable)
+Concise Bounded Description | https://w3id.org/profile/cbd | [experimental](https://linked.data.gov.au/def/reg-statuses/experimental)
+Container Annotations | https://w3id.org/profile/contanno | [stable](https://linked.data.gov.au/def/reg-statuses/stable)
+Profiles Catalogue | https://w3id.org/profile/profcat | [experimental](https://linked.data.gov.au/def/reg-statuses/experimental)
+OGC Linked Data API | https://w3id.org/profile/ogcldapi | [stable](https://linked.data.gov.au/def/reg-statuses/stable)
+Vocabulary Publications | https://w3id.org/profile/vocpub | [stable](https://linked.data.gov.au/def/reg-statuses/stable)
