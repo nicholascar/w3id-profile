@@ -25,6 +25,10 @@ All these members are profiles.
 --- | --- | ---
 Concise Bounded Description | https://w3id.org/profile/cbd | [experimental](https://linked.data.gov.au/def/reg-statuses/experimental)
 Container Annotations | https://w3id.org/profile/contanno | [stable](https://linked.data.gov.au/def/reg-statuses/stable)
-Profiles Catalogue | https://w3id.org/profile/profcat | [experimental](https://linked.data.gov.au/def/reg-statuses/experimental)
 OGC Linked Data API | https://w3id.org/profile/ogcldapi | [stable](https://linked.data.gov.au/def/reg-statuses/stable)
+Ontology Publications | https://w3id.org/profile/ontpub | [experimental](https://linked.data.gov.au/def/reg-statuses/stable)
+Profiles Catalogue | https://w3id.org/profile/profcat | [experimental](https://linked.data.gov.au/def/reg-statuses/experimental)
+ProvPrez | https://w3id.org/profile/provprez | [experimental](https://linked.data.gov.au/def/reg-statuses/stable)
+SpacePrez | https://w3id.org/profile/vocprez | [experimental](https://linked.data.gov.au/def/reg-statuses/stable)
 Vocabulary Publications | https://w3id.org/profile/vocpub | [stable](https://linked.data.gov.au/def/reg-statuses/stable)
+VocabularyPrez | https://w3id.org/profile/vocprez | [experimental](https://linked.data.gov.au/def/reg-statuses/stable)
