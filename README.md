@@ -31,4 +31,4 @@ Profiles Catalogue | <https://w3id.org/profile/profcat> | [experimental](https:/
 ProvPrez | <https://w3id.org/profile/provprez> | [experimental](https://linked.data.gov.au/def/reg-statuses/stable)
 SpacePrez | <https://w3id.org/profile/vocprez> | [experimental](https://linked.data.gov.au/def/reg-statuses/stable)
 Vocabulary Publications | <https://w3id.org/profile/vocpub> | [stable](https://linked.data.gov.au/def/reg-statuses/stable)
-VocabularyPrez | <https://w3id.org/profile/vocprez> | [experimental](https://linked.data.gov.au/def/reg-statuses/stable)
+VocPrez | <https://w3id.org/profile/vocprez> | [experimental](https://linked.data.gov.au/def/reg-statuses/stable)
