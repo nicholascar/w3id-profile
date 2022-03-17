@@ -13,7 +13,7 @@ A list of fundamental profiles, that is profiles that are commonly seen/needed a
 * **Created**
   * 2012-08-15
 * **Modified**
-  * 2022-02-11
+  * 2022-03-17
 * **Persistent Identifier**
   * [`https://w3id.org/profile/`](https://w3id.org/profile/)
 
